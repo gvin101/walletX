@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hackone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+    <string name="Paypal">Add Paypal</string>
+    <string name="Balances">Balances</string>
+    <string name="Send">Send/Pay</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="payto">Pay:</string>
+    <string name="paypal">Paypal</string>
+    <string name="title_activity_balance">BalanceActivity</string>
+    <string name="CurrentBalance">200</string>
+    <string name="CurrentPaypalBalance">1500</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="splash">SplashActivity</string>
+<string name="Toggle">ToggleActivity</string>
+    <string name="amount">Amount:</string>
+</resources>
